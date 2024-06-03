@@ -21,7 +21,7 @@ repository               : "YutongWang-Catherine"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/id_photo.png"
+  avatar           : "images/id_photo.png"
   name             : "Yutong Wang"
   pronouns         : "she/her"  
   bio              : "Love Graphics, Love Life"
