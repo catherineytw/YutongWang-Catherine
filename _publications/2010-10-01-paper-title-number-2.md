@@ -1,7 +1,7 @@
 ---
 title: "Creative Virtual Tree Modeling through Hierarchical Topology-preserving Blending"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-1
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'We present a new method to efficiently generate a set of morphologically diverse and inspiring virtual trees through hierarchical topology-preserving blending, aiming to facilitate designers’ creativity production'
 date: 2017-10-01
 venue: 'Journal IEEE Transactions on Visualization and Computer Graphics'
