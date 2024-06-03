@@ -2,7 +2,7 @@
 title: "Sketch-based Shape-preserving Tree Animations"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-3
-excerpt: 'We present a novel and intuitive sketch-based tree animation technique, targeting on generating a new type of special effect of smoothly transforming leafy trees into morphologically different new shapes.'
+excerpt: ''
 date: 2018
 venue: 'Computer Animation and Virtual Worlds'
 slidesurl: 'http://www.cad.zju.edu.cn/home/jin/casa2018/demo.mp4'
