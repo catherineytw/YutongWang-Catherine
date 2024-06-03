@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Sketch-based Shape-preserving Tree Animations"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2010-10-01-paper-title-number-3
+excerpt: 'We present a novel and intuitive sketch-based tree animation technique, targeting on generating a new type of special effect of smoothly transforming leafy trees into morphologically different new shapes.'
+date: 2018
+venue: 'Computer Animation and Virtual Worlds'
+slidesurl: 'http://www.cad.zju.edu.cn/home/jin/casa2018/demo.mp4'
+paperurl: 'http://www.cad.zju.edu.cn/home/jin/casa2018/casa2018.pdf'
+citation: '<b>Yutong Wang</b>, Luyuan Wang, Zhigang Deng, and Xiaogang Jin. &quot; Topologically Consistent Leafy Tree Morphing. &quot; <i>Computer Animation and Virtual Worlds</i>,Wiley, 2018, 29(3-4): e1821.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We present a novel and intuitive sketch-based tree animation technique, targeting on generating a new type of special effect of smoothly transforming leafy trees into morphologically different new shapes. Both topological consistencies of branches and meaningful inbetween crown shapes are preserved during the transformation. Specifically, it takes a leafy tree and a user’s sketch describing the silhouette of the desired crown shape under a certain viewpoint as the input. Based on a self-adaptive multiscale cage tree representation, branches are locally transformed through a series of topology-aware deformations, and the resulting tree conforms to the user-designed shape, demonstrating better aesthetics compared to global single cage-based methods. By interpolating the transformations, we are able to create visually pleasing shape preserving animations of trees transforming between two crown shapes. Our proposed framework also provides an efficient way to interactively edit leafy trees towards desired shapes, demonstrating its potential to leverage existing tree modeling frameworks by providing flexible and intuitive tree editing operations.
