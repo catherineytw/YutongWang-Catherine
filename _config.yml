@@ -21,12 +21,12 @@ description              : &description "personal description"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "./images/id_photo.png"
   name             : "Yutong Wang"
   pronouns         : "she/her"  
   bio              : "Love Graphics, Love Life"
   location         : "China"
-  employer         : "Red Brick University"
+  #employer         : "Red Brick University"
   uri              : # URL
   email            : "catherineytw@yahoo.com" 
 
