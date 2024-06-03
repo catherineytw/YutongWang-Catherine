@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yutong Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Yutong Wang"
-description              : &description "personal description"
+description              : &description "一个人菜瘾大的炼丹师"
 #url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #repository               : "academicpages/academicpages.github.io"
@@ -27,16 +27,16 @@ author:
   bio              : "Love Graphics, Love Life"
   location         : "China"
   #employer         : "Red Brick University"
-  uri              : # URL
+  #uri              : # URL
   email            : "catherineytw@yahoo.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  #orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
