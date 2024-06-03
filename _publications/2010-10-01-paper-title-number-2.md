@@ -1,5 +1,5 @@
 ---
-title: "Topologically Consistent Leafy Tree Morphing
+title: "Topologically Consistent Leafy Tree Morphing"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
