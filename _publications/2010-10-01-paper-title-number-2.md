@@ -1,13 +1,13 @@
 ---
-title: "Topologically consistent leafy tree morphing"
+title: "Creative Virtual Tree Modeling through Hierarchical Topology-preserving Blending"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2017
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2010-10-01-paper-title-number-1
+excerpt: 'We present a new method to efficiently generate a set of morphologically diverse and inspiring virtual trees through hierarchical topology-preserving blending, aiming to facilitate designers’ creativity production'
+date: 2017-10-01
+venue: 'Journal IEEE Transactions on Visualization and Computer Graphics'
+slidesurl: 'http://www.cad.zju.edu.cn/home/jin/tvcg2016/demo.mp4'
+paperurl: 'http://www.cad.zju.edu.cn/home/jin/tvcg2016/tvcg2016.pdf'
+citation: '<b>Yutong Wang</b>, Xiaowei Xue, Xiaogang Jin, and Zhigang Deng. &quot; Creative Virtual Tree Modeling through Hierarchical Topology-preserving Blending &quot; <i>IEEE Transactions on Visualization and Computer Graphics.</i>, IEEE Computer Society, 2017, 23(12): 2521-2534. 1(2).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+abstract
