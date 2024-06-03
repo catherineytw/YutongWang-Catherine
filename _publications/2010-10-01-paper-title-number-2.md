@@ -1,5 +1,5 @@
 ---
-title: "Topologically Consistent Leafy Tree Morphing <b>Best Paper Award for CASA'2017</b>"
+title: "Topologically Consistent Leafy Tree Morphing Best Paper Award for CASA'2017"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'We present a novel morphing technique to generate pleasing visual effects between 2 topologically varying trees while preserving the topological consistency and botanical meanings of any in-between shapes as natural trees.'
