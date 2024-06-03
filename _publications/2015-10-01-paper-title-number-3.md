@@ -5,8 +5,8 @@ permalink: /publication/2010-10-01-paper-title-number-3
 excerpt: 'We present a novel morphing technique to generate pleasing visual effects between 2 topologically varying trees while preserving the topological consistency and botanical meanings of any in-between shapes as natural trees.'
 date: 2017-10-01
 venue: 'Computer Animation and Virtual Worlds'
-slidesurl: 'http://www.cad.zju.edu.cn/home/jin/casa2017/demo.mp4'
-paperurl: 'http://www.cad.zju.edu.cn/home/jin/casa2017/casa2017.pdf'
+slidesurl: 'http://www.cad.zju.edu.cn/home/jin/casa2018/demo.mp4'
+paperurl: 'http://www.cad.zju.edu.cn/home/jin/casa2018/casa2018.pdf'
 citation: '<b>Yutong Wang</b>, Luyuan Wang, Zhigang Deng, and Xiaogang Jin. &quot; Sketch-based Shape-preserving Tree Animations. &quot; <i>Computer Animation and Virtual Worlds</i>, Wiley, 2018, 29(3-4): e1821.'
 ---
 
