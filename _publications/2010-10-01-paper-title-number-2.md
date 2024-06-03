@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Topologically Consistent Leafy Tree Morphing"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+excerpt: 'We present a novel morphing technique to generate pleasing visual effects between 2 topologically varying trees while preserving the topological consistency and botanical meanings of any in-between shapes as natural trees.'
+date: 2017
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+slidesurl: 'http://www.cad.zju.edu.cn/home/jin/casa2017/demo.mp4'
+paperurl: 'http://www.cad.zju.edu.cn/home/jin/casa2017/casa2017.pdf'
+citation: 'Yutong Wang, Luyuan Wang, Zhigang Deng, and Xiaogang Jin. &quot; Computer Animation and Virtual Worlds &quot; <i>Wiley</i>. 2017, 28(3-4): e1761.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We present a novel morphing technique to generate pleasing visual effects between 2 topologically varying trees while preserving the topological consistency and botanical meanings of any in-between shapes as natural trees. Specifically, we first efficiently convert leafy trees into botanically inspired chain-lobe representations in an automatic way. With the aid of branching-pattern aware, one-to-many correspondences between branches and leaves, we hierarchically interpolate branches of in-between trees while maintaining their topological consistencies. Finally, we simultaneously interpolate foliage, specifically every single leaf, during the morphing process, avoiding the generation of unpleasant “floating” leaves. We demonstrate the effectiveness of our approach by creating visually compelling tree morphing animations, even between cross-species.
