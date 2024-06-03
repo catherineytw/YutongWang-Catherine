@@ -4,6 +4,7 @@ excerpt: "CASA 2017 Best Paper Award <br/><img src='/images/drawing.png'>"
 collection: portfolio
 ---
 2017 CASA Best Paper
+<img src='/images/drawing.png'>
 <img src='/images/CASA2017Best_Paper_Award.png'>
 <img src='/images/casa2017_teaser.png'>
 
