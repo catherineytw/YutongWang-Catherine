@@ -2,7 +2,7 @@
 title: "Make-A-Character: High Quality Text-to-3D Character Generation within Minutes"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'We propose a user-friendly framework named Make-A-Character (Mach) to create lifelike 3D avatars from text descriptions.'
+excerpt: "We propose a user-friendly framework named Make-A-Character (Mach) to create lifelike 3D avatars from text descriptions. <img src='../images/make_a_character'>"
 date: 2024-01-20
 venue: 'arXiv preprint'
 url: "https://human3daigc.github.io/MACH/"
