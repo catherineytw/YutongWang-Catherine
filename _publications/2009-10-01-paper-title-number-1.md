@@ -1,4 +1,4 @@
-![image](https://github.com/catherineytw/YutongWang-Catherine/assets/13126608/80b55894-cf20-4194-98c2-3baa9e413fd7)---
+---
 title: "Creative Virtual Tree Modeling through Hierarchical Topology-preserving Blending"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-1
