@@ -2,7 +2,7 @@
 title: "Topologically Consistent Leafy Tree Morphing"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: "We present a novel morphing technique to generate pleasing visual effects between 2 topologically varying trees while preserving the topological consistency and botanical meanings of any in-between shapes as natural trees.<img src='../images/casa2017_teaser.png'>"
+excerpt: "We present a novel morphing technique to generate pleasing visual effects between 2 topologically varying trees while preserving the topological consistency and botanical meanings of any in-between shapes as natural trees. <img src='../images/casa2017_teaser.png'>"
 date: 2017-10-01
 venue: 'Computer Animation and Virtual Worlds'
 slidesurl: 'http://www.cad.zju.edu.cn/home/jin/casa2017/demo.mp4'
