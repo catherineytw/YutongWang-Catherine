@@ -1,6 +1,6 @@
 ---
 title: "AIGC - Text-3D Shopping Store Generation "
-excerpt: "Text-3D Shopping Store Generation. <br/><img src='../images/aigc-shoppingmall_2'>"
+excerpt: "Text-3D Shopping Store Generation. <br/><img src='../images/aigc-shoppingmall_2.jpg'>"
 collection: portfolio
 ---
 2023.7
