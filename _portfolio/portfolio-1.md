@@ -1,6 +1,6 @@
 ---
 title: "CASA 2017 Best Paper Award"
-excerpt: "CASA 2017 Best Paper Award <br/><img src='../images/CASA2017Best_Paper_Award.png'>"
+excerpt: "CASA 2017 Best Paper Award <img src='../images/CASA2017Best_Paper_Award.png'>"
 collection: portfolio
 ---
 2017 CASA Best Paper
