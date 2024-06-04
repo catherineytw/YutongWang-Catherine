@@ -6,5 +6,4 @@ collection: portfolio
 2019.1
 
 <img src='../../images/Packaging.png'>
-
 <img src='../../images/Packaging2.png'>
